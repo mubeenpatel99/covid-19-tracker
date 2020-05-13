@@ -1,7 +1,13 @@
 # COVID-19 Global Tracker [![author](https://img.shields.io/badge/Author-Patel%20Mubeen-blue.svg)](https://mubeenpatel99.github.io/mubeenpatel.github.io/)
+
 This project was created with React JS.
 
-## How to run?
+## Snap Shot
+
+![Preview](./documentation/snapshot.PNG)
+
+## How to run
+
 A step by step guide in mentioned in the documentation below check it out in Available Scripts below.
 
 ## Available Scripts
